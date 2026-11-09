@@ -3,4 +3,6 @@ name = "project-reader"
 version = "0.1.0"
 description = ""
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "toml>=0.10.2",
+]
